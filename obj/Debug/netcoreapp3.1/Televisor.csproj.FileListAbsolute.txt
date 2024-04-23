@@ -1,0 +1,39 @@
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\MDS\PRACTICAS\repos\Televisor\bin\Debug\netcoreapp3.1\Televisor.exe
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\MDS\PRACTICAS\repos\Televisor\bin\Debug\netcoreapp3.1\Televisor.deps.json
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\MDS\PRACTICAS\repos\Televisor\bin\Debug\netcoreapp3.1\Televisor.runtimeconfig.json
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\MDS\PRACTICAS\repos\Televisor\bin\Debug\netcoreapp3.1\Televisor.runtimeconfig.dev.json
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\MDS\PRACTICAS\repos\Televisor\bin\Debug\netcoreapp3.1\Televisor.dll
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\MDS\PRACTICAS\repos\Televisor\bin\Debug\netcoreapp3.1\Televisor.pdb
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\MDS\PRACTICAS\repos\Televisor\obj\Debug\netcoreapp3.1\Televisor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\MDS\PRACTICAS\repos\Televisor\obj\Debug\netcoreapp3.1\Televisor.AssemblyInfoInputs.cache
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\MDS\PRACTICAS\repos\Televisor\obj\Debug\netcoreapp3.1\Televisor.AssemblyInfo.cs
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\MDS\PRACTICAS\repos\Televisor\obj\Debug\netcoreapp3.1\Televisor.csproj.CoreCompileInputs.cache
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\MDS\PRACTICAS\repos\Televisor\obj\Debug\netcoreapp3.1\Televisor.dll
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\MDS\PRACTICAS\repos\Televisor\obj\Debug\netcoreapp3.1\Televisor.pdb
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\MDS\PRACTICAS\repos\Televisor\obj\Debug\netcoreapp3.1\Televisor.genruntimeconfig.cache
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\MDS\PRACTICAS\repos\New folder\Televisor\bin\Debug\netcoreapp3.1\Televisor.exe
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\MDS\PRACTICAS\repos\New folder\Televisor\bin\Debug\netcoreapp3.1\Televisor.deps.json
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\MDS\PRACTICAS\repos\New folder\Televisor\bin\Debug\netcoreapp3.1\Televisor.runtimeconfig.json
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\MDS\PRACTICAS\repos\New folder\Televisor\bin\Debug\netcoreapp3.1\Televisor.runtimeconfig.dev.json
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\MDS\PRACTICAS\repos\New folder\Televisor\bin\Debug\netcoreapp3.1\Televisor.dll
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\MDS\PRACTICAS\repos\New folder\Televisor\bin\Debug\netcoreapp3.1\Televisor.pdb
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\MDS\PRACTICAS\repos\New folder\Televisor\obj\Debug\netcoreapp3.1\Televisor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\MDS\PRACTICAS\repos\New folder\Televisor\obj\Debug\netcoreapp3.1\Televisor.AssemblyInfoInputs.cache
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\MDS\PRACTICAS\repos\New folder\Televisor\obj\Debug\netcoreapp3.1\Televisor.AssemblyInfo.cs
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\MDS\PRACTICAS\repos\New folder\Televisor\obj\Debug\netcoreapp3.1\Televisor.csproj.CoreCompileInputs.cache
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\MDS\PRACTICAS\repos\New folder\Televisor\obj\Debug\netcoreapp3.1\Televisor.dll
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\MDS\PRACTICAS\repos\New folder\Televisor\obj\Debug\netcoreapp3.1\Televisor.pdb
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\MDS\PRACTICAS\repos\New folder\Televisor\obj\Debug\netcoreapp3.1\Televisor.genruntimeconfig.cache
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\MDS\PRACTICAS\repos\DSOO A2\Televisor\bin\Debug\netcoreapp3.1\Televisor.exe
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\MDS\PRACTICAS\repos\DSOO A2\Televisor\bin\Debug\netcoreapp3.1\Televisor.deps.json
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\MDS\PRACTICAS\repos\DSOO A2\Televisor\bin\Debug\netcoreapp3.1\Televisor.runtimeconfig.json
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\MDS\PRACTICAS\repos\DSOO A2\Televisor\bin\Debug\netcoreapp3.1\Televisor.runtimeconfig.dev.json
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\MDS\PRACTICAS\repos\DSOO A2\Televisor\bin\Debug\netcoreapp3.1\Televisor.dll
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\MDS\PRACTICAS\repos\DSOO A2\Televisor\bin\Debug\netcoreapp3.1\Televisor.pdb
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\MDS\PRACTICAS\repos\DSOO A2\Televisor\obj\Debug\netcoreapp3.1\Televisor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\MDS\PRACTICAS\repos\DSOO A2\Televisor\obj\Debug\netcoreapp3.1\Televisor.AssemblyInfoInputs.cache
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\MDS\PRACTICAS\repos\DSOO A2\Televisor\obj\Debug\netcoreapp3.1\Televisor.AssemblyInfo.cs
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\MDS\PRACTICAS\repos\DSOO A2\Televisor\obj\Debug\netcoreapp3.1\Televisor.csproj.CoreCompileInputs.cache
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\MDS\PRACTICAS\repos\DSOO A2\Televisor\obj\Debug\netcoreapp3.1\Televisor.dll
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\MDS\PRACTICAS\repos\DSOO A2\Televisor\obj\Debug\netcoreapp3.1\Televisor.pdb
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\MDS\PRACTICAS\repos\DSOO A2\Televisor\obj\Debug\netcoreapp3.1\Televisor.genruntimeconfig.cache
